@@ -5,6 +5,7 @@
 # shaders folder shoud be in C:\\dev
 # Dependencies folder should be in solution directory
 
-you move a big circlea and "eat" small ones.  
-
-circles change the color gradually.
+  
+Move a bleaking circle inside 1280x720 window using arrow keys. Boundaries are borders of the window.
+circles change the color gradually.  
+upd1: now it's a game Eat Circles. You move a big circle and "eat" small ones.
