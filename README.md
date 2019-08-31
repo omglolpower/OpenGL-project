@@ -4,6 +4,7 @@
 # a visual studio project should be created using template Default OpenGL project upd4
 # shaders folder shoud be in C:\\dev
 # Dependencies folder should be in solution directory
-;
-you move a big circlea and "eat" small ones.
+
+you move a big circlea and "eat" small ones.  
+
 circles change the color gradually.
