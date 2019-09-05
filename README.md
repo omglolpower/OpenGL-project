@@ -10,3 +10,4 @@ Move a bleaking circle inside 1280x720 window using arrow keys. Boundaries are b
 circles change the color gradually.  
 upd1: now it's a game Eat Circles. You move a big circle and "eat" small ones.  
 upd2: added hit sound (PlaySound)
+upd3: now it's Shoot circles
